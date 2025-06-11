@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bonitobird.github.io/al-folio/sitemap.xml
+Sitemap: https://bonitobird.github.io/sitemap.xml
