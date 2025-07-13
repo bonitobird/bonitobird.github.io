@@ -3,7 +3,7 @@ layout: page
 permalink: /resume/
 title: resume
 description:
-cv_pdf: example_pdf.pdf # you can also use external links here 
+resume_pdf: example_pdf.pdf # you can also use external links here 
 nav: true
 nav_order: 1
 ---
