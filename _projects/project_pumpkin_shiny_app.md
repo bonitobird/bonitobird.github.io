@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Giant Pumpkin Commonwealth App
+title: Giant Pumpkin App
 description: Shiny Application (R, shiny, tidyverse, ggplot)
 img: assets/img/plot_gpc_top_ten_sites.png
 importance: 2
