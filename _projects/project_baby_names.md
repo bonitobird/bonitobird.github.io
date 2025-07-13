@@ -1,12 +1,14 @@
 ---
 layout: page
-title: US baby name popularity over time 
+title: US Baby Name App
 description: Flask Application (python, pandas, matplotlib)
 img: assets/img/plot_baby_names_dave.png
 importance: 1
-category: fun
-related_publications: true
+category: data
+related_publications: false
 ---
+
+<a href = "https://bonitobird.pythonanywhere.com/"> Baby Names App </a>
 
 During March/April of 2020, I suddenly had lots of freetime on the weekends to create my first web application. Using jupyter notebooks, pandas, and matplotlib, I had already been exploring US baby naming popularity trends over time, but I didn't have a way for friends and family to easily explore the data on their own. So, I spent those first few weekends of Covid lockdown learning Flask, built this app and deployed it at pythonanywhere.com
 
@@ -19,7 +21,9 @@ During March/April of 2020, I suddenly had lots of freetime on the weekends to c
     </div>
 </div>
 <div class="caption">
-     On the left, the landing page for the app. On the right, the app once I named is entered.
+     On the left, the landing page for the app. 
+     &emsp; --- &emsp;
+     On the right, the results page of the app.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,4 +34,4 @@ During March/April of 2020, I suddenly had lots of freetime on the weekends to c
     A close up of an example plot generated within the app.
 </div>
 
-<a href = "https://bonitobird.pythonanywhere.com/"> Baby Names App </a>
+
