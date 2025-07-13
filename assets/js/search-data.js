@@ -23,11 +23,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "projects-us-baby-name-popularity-over-time",
-          title: 'US baby name popularity over time',
+        },{id: "projects-us-baby-name-app",
+          title: 'US Baby Name App',
           description: "Flask Application (python, pandas, matplotlib)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_baby_names/";
+            },},{id: "projects-giant-pumpkin-commonwealth-app",
+          title: 'Giant Pumpkin Commonwealth App',
+          description: "Shiny Application (R, shiny, tidyverse, ggplot)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_pumpkin_shiny_app/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
