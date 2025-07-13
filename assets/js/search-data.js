@@ -33,8 +33,8 @@ ninja.data = [{
           description: "PostgreSQL Database, Google Maps API, Grafana Dashboard Development",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_pumpkin_database_api/";
-            },},{id: "projects-giant-pumpkin-commonwealth-app",
-          title: 'Giant Pumpkin Commonwealth App',
+            },},{id: "projects-giant-pumpkin-app",
+          title: 'Giant Pumpkin App',
           description: "Shiny Application (R, shiny, tidyverse, ggplot)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_pumpkin_shiny_app/";
