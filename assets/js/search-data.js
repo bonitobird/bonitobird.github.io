@@ -28,6 +28,11 @@ ninja.data = [{
           description: "Flask Application (python, pandas, matplotlib)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_baby_names/";
+            },},{id: "projects-giant-pumpkin-dashboard",
+          title: 'Giant Pumpkin Dashboard',
+          description: "PostgreSQL Database, Google Maps API, Grafana Dashboard Development",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_pumpkin_database_api/";
             },},{id: "projects-giant-pumpkin-commonwealth-app",
           title: 'Giant Pumpkin Commonwealth App',
           description: "Shiny Application (R, shiny, tidyverse, ggplot)",
