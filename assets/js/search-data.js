@@ -23,21 +23,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "projects-us-baby-name-app",
-          title: 'US Baby Name App',
-          description: "Flask Application (python, pandas, matplotlib)",
+        },{id: "projects-demographic-analysis-of-medication-pricing",
+          title: 'Demographic Analysis of Medication Pricing',
+          description: "R, SQL, Machine Learning, AWS, Hypothesis Testing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/project_baby_names/";
-            },},{id: "projects-giant-pumpkin-dashboard",
-          title: 'Giant Pumpkin Dashboard',
-          description: "PostgreSQL Database, Google Maps API, Grafana Dashboard Development",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/project_pumpkin_database_api/";
+              window.location.href = "/projects/project_03_medication_pricing_trends/";
             },},{id: "projects-giant-pumpkin-app",
           title: 'Giant Pumpkin App',
           description: "Shiny Application (R, shiny, tidyverse, ggplot)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/project_pumpkin_shiny_app/";
+              window.location.href = "/projects/project_05_pumpkin_shiny_app/";
+            },},{id: "projects-giant-pumpkin-dashboard",
+          title: 'Giant Pumpkin Dashboard',
+          description: "PostgreSQL Database, Google Maps API, Grafana Dashboard Development",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_08_pumpkin_database_api/";
+            },},{id: "projects-us-baby-name-app",
+          title: 'US Baby Name App',
+          description: "Flask Application (python, pandas, matplotlib)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_10_baby_names/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
